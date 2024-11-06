@@ -1,0 +1,15 @@
+{
+  "name": "post-css",
+  "version": "1.0.0",
+  "main": "postcss.config.js",
+"scripts": {
+  "dev":"vite"
+},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "tailwindcss": "^3.4.14"
+  }
+}
