@@ -9,6 +9,7 @@ module.exports = {
       colors:{
         'shariar':'#ffafcc'
       }
+      
     },
   },
   plugins: [],
